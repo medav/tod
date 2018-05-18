@@ -1,2 +1,2 @@
-# tod
-Tactical Observation Device
+# TOD: Tactical Observation Device
+Here is the code we used to control tod. We used WireShark + WinPcap to reverse-engineer the serial protocol used by Modern Robotics' Core Control Library so it can be used on Linux, or pretty much any system that supports serial over USB.
